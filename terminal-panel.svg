@@ -1,0 +1,132 @@
+<svg width="1100" height="600" viewBox="0 0 1100 600" xmlns="http://www.w3.org/2000/svg" font-family="Consolas, 'Courier New', monospace" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo1NGVmZmVjYy0wMzQ4LTRiZmMtYWE4Ny02YjVhYmFjMWQ3Y2MAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaIRl8MiEEG7WB4TXSeYf5EUAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo0YzE1MTBlNS1jMzRkLTQ3MzAtYWFlYy0xODY5ZWIyMzQyNDJscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNo0Ft1Y930mymqhOyTEjytJgAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggrHLkn7St5HGoaF58IoRe+V1FkcaTduOwwB8VhMHyvjekZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaIocaSW2mEzRPcj7CbKJF0QAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCCaGPQddd1TB3iHnxYHsylB2wlyDXJvJhJQM9pBcgXXM2RuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjJZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjU0ZWZmZWNjLTAzNDgtNGJmYy1hYTg3LTZiNWFiYWMxZDdjYy9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjViZjExYjNmLWUxMWQtNDM4My1hMmU4LThhZDlmODhmYzUyZHJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCCscuSftK3kcahoXnwihF75XUWRxpN247DAHxWEwfK+N6JjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggdf6KU59vdA7aTXmExpLWpK/IryYN/9n9mXLAVvPfB42iY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFgg6TmtFRMxfQgfG5tlz1Jwzr4qlONDNutfEHoxDZHl8wZ0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQOHMesD7V9tS7Xb0o6cD7+pQbYPvELoENC86g2tiTum6qSLJGy+H4hyCtCxB6albSBC0zDCFbLj9xINVscpHmVA=</c2pa:manifest></metadata>
+  <defs>
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#a855f7"/>
+      <stop offset="50%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#22d3ee"/>
+    </linearGradient>
+    <style>
+      .scan { animation: scan 3.5s linear infinite; }
+      @keyframes scan {
+        0%   { transform: translateY(0px); opacity: 0.9; }
+        50%  { transform: translateY(430px); opacity: 0.4; }
+        100% { transform: translateY(0px); opacity: 0.9; }
+      }
+      .blink { animation: blink 1.2s steps(2, start) infinite; }
+      @keyframes blink { to { visibility: hidden; } }
+      .lbl { fill: #7dd3fc; font-size: 14px; }
+      .val { fill: #e5e7eb; font-size: 14px; }
+      .dot { fill: #475569; }
+      .hdr { fill: #4ade80; font-size: 14px; }
+      .sec { fill: #38bdf8; font-size: 13px; letter-spacing: 1px; }
+    </style>
+  </defs>
+
+  <rect x="2" y="2" width="1096" height="596" rx="14" fill="none" stroke="url(#borderGrad)" stroke-width="2.5"/>
+  <rect x="6" y="6" width="1088" height="588" rx="12" fill="#0a0e14"/>
+
+  <!-- title bar -->
+  <circle cx="34" cy="34" r="6" fill="#ff5f56"/>
+  <circle cx="56" cy="34" r="6" fill="#ffbd2e"/>
+  <circle cx="78" cy="34" r="6" fill="#27c93f"/>
+  <text x="550" y="39" text-anchor="middle" fill="#64748b" font-size="13">ajit@devos ~ % ./profile.sh --live</text>
+  <circle cx="1045" cy="34" r="4" fill="#ef4444"/>
+  <text x="1058" y="39" fill="#ef4444" font-size="11">LIVE</text>
+
+  <line x1="20" y1="58" x2="1080" y2="58" stroke="#1e293b" stroke-width="1"/>
+
+  <!-- LEFT: VISUAL.MAP -->
+  <text x="40" y="86" class="sec">VISUAL.MAP</text>
+  <rect x="30" y="100" width="450" height="470" rx="8" fill="none" stroke="#1e293b" stroke-width="1"/>
+
+  <!-- ascii circuit pattern -->
+  <g font-size="9" fill="#0ea5e9" opacity="0.85">
+    <text x="50" y="130">:::  ..::::..  ::  ....  :::: .. :::: ..</text>
+    <text x="50" y="145">.. :::: .. ....  ::::::  .. :::: ..::::.</text>
+    <text x="50" y="160">::::  .. :::: ..::::.. :::: .. ....  :::</text>
+    <text x="50" y="175">.. ....  :::: .. ::::::  ....  :::: ..::</text>
+    <text x="50" y="190">::::.. ....  :::: :::: .. :::: .. ....  </text>
+    <text x="50" y="205">.. :::: ..::::  ....  :::: :::: .. ::::.</text>
+    <text x="50" y="220">::::  .. ....  :::: .. :::: ..::::.. :::</text>
+    <text x="50" y="235">.. ....  :::: :::: .. :::: .. ....  ::::</text>
+    <text x="50" y="250">:::: ..::::.. ....  :::: :::: ..::::.. ..</text>
+    <text x="50" y="265">.. :::: .. :::: ..::::  ....  :::: :::: </text>
+    <text x="50" y="280">::::.. ....  :::: :::: .. :::: .. ....  </text>
+    <text x="50" y="295">.. ....  :::: :::: ..::::.. ....  :::: ::</text>
+    <text x="50" y="310">:::: ..::::.. :::: .. :::: :::: ..::::.. </text>
+    <text x="50" y="325">.. :::: .. ....  :::: :::: .. :::: .. ...</text>
+    <text x="50" y="340">::::  .. ....  :::: :::: ..::::.. :::: ..</text>
+    <text x="50" y="355">.. ....  :::: :::: .. :::: .. ....  ::::.</text>
+    <text x="50" y="370">:::: ..::::.. ....  :::: :::: ..::::.. ..</text>
+    <text x="50" y="385">.. :::: .. :::: ..::::  ....  :::: :::: </text>
+    <text x="50" y="400">::::.. ....  :::: :::: .. :::: .. ....  </text>
+    <text x="50" y="415">.. ....  :::: :::: ..::::.. ....  :::: ::</text>
+    <text x="50" y="430">:::: ..::::.. :::: .. :::: :::: ..::::.. </text>
+    <text x="50" y="445">.. :::: .. ....  :::: :::: .. :::: .. ...</text>
+    <text x="50" y="460">::::  .. ....  :::: :::: ..::::.. :::: ..</text>
+    <text x="50" y="475">.. ....  :::: :::: .. :::: .. ....  ::::.</text>
+    <text x="50" y="490">:::: ..::::.. ....  :::: :::: ..::::.. ..</text>
+  </g>
+
+  <!-- scanning highlight line -->
+  <rect class="scan" x="30" y="100" width="450" height="2" fill="#22d3ee"/>
+
+  <!-- RIGHT: SYSTEM.INFO -->
+  <text x="520" y="86" class="sec">SYSTEM.INFO</text>
+  <rect x="510" y="100" width="560" height="470" rx="8" fill="none" stroke="#1e293b" stroke-width="1"/>
+
+  <text x="530" y="128" class="hdr">ajit@devos</text>
+  <line x1="620" y1="123" x2="1050" y2="123" stroke="#1e293b" stroke-width="1"/>
+
+  <text x="530" y="155" class="lbl">. Subject: .......................</text>
+  <text x="800" y="155" class="val">B. Ajit Chowdary</text>
+
+  <text x="530" y="177" class="lbl">. Role: ..........................</text>
+  <text x="800" y="177" class="val">Sr. Frontend &amp; Mobile Dev</text>
+
+  <text x="530" y="199" class="lbl">. Origin: ........................</text>
+  <text x="800" y="199" class="val">Hyderabad / Visakhapatnam, IN</text>
+
+  <text x="530" y="221" class="lbl">. Experience: ....................</text>
+  <text x="800" y="221" class="val">10+ Years</text>
+
+  <text x="530" y="243" class="lbl">. Status: ........................</text>
+  <text x="800" y="243" class="val">Shipping Fintech &amp; Proptech Apps</text>
+
+  <text x="530" y="265" class="lbl">. ToolChain: .....................</text>
+  <text x="800" y="265" class="val">VS Code, Git, Figma, Postman</text>
+
+  <text x="530" y="290" class="dot">.</text>
+
+  <text x="530" y="310" class="lbl">. Core.Web: ......................</text>
+  <text x="800" y="310" class="val">Angular 19, TypeScript, RxJS</text>
+
+  <text x="530" y="332" class="lbl">. Core.Mobile: ...................</text>
+  <text x="800" y="332" class="val">Flutter, Dart, BLoC, GetX</text>
+
+  <text x="530" y="354" class="lbl">. Core.Backend: ..................</text>
+  <text x="800" y="354" class="val">Java Spring Boot, REST APIs</text>
+
+  <text x="530" y="376" class="lbl">. Core.Auth: .....................</text>
+  <text x="800" y="376" class="val">JWT, Biometric, DigiLocker KYC</text>
+
+  <text x="530" y="398" class="lbl">. Core.Testing: ..................</text>
+  <text x="800" y="398" class="val">Playwright, UiPath RPA</text>
+
+  <text x="530" y="422" class="sec">- Contact</text>
+  <line x1="600" y1="418" x2="1050" y2="418" stroke="#1e293b" stroke-width="1"/>
+
+  <text x="530" y="446" class="lbl">. Grid.Mail: .....................</text>
+  <text x="800" y="446" class="val">ajit.chowdary@gmail.com</text>
+
+  <text x="530" y="468" class="lbl">. Grid.LinkedIn: .................</text>
+  <text x="800" y="468" class="val">linkedin.com/in/ajitchowdary</text>
+
+  <text x="530" y="490" class="lbl">. Grid.Github: ...................</text>
+  <text x="800" y="490" class="val">github.com/ajitchowdary</text>
+
+  <text x="530" y="514" class="sec">- Live Stats</text>
+  <line x1="590" y1="510" x2="1050" y2="510" stroke="#1e293b" stroke-width="1"/>
+  <text x="530" y="536" fill="#94a3b8" font-size="12">See live GitHub stats badges below in README</text>
+  <text x="530" y="560" fill="#4ade80" font-size="13">$ <tspan class="blink">_</tspan></text>
+</svg>
