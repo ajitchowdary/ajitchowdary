@@ -26,7 +26,19 @@
 
 </div>
 
-## ⚡ Professional Highlights & Core Specializations
+<!-- ⚡ LIQUID GLASS SPECIALIZATIONS DASHBOARD -->
+<div align="center">
+
+<img src="./specializations-glass.svg?v=1" alt="Professional Highlights &amp; Core Specializations — Liquid Glass Design" width="100%"/>
+
+<br/><br/>
+
+</div>
+
+<details>
+<summary><b>📋 Expand Architectural Highlights &amp; Core Specializations (Detailed Specs)</b></summary>
+
+<br/>
 
 > **Senior Web Developer & Mobile Application Developer** with **10+ years** of progressive experience engineering scalable, resilient web platforms and high-performance cross-platform mobile apps. Proven track record delivering high-impact **Fintech**, **Digital Bullion Trading**, and **Proptech** investment platforms.
 
@@ -68,6 +80,10 @@
   </td>
 </tr>
 </table>
+
+</details>
+
+<br/>
 
 <br/>
 
