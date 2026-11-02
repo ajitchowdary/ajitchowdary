@@ -24,11 +24,7 @@
 
 <br/><br/>
 
-</div>
-
 <!-- ⚡ LIQUID GLASS SPECIALIZATIONS DASHBOARD -->
-<div align="center">
-
 <img src="./specializations-glass.svg?v=1" alt="Professional Highlights &amp; Core Specializations — Liquid Glass Design" width="100%"/>
 
 <br/><br/>
@@ -85,11 +81,23 @@
 
 <br/>
 
-<br/>
-
 ---
 
-## 🍥 S-Rank Missions — Flagship Production Platforms
+<!-- 🍥 S-RANK MISSIONS & ENTERPRISE DASHBOARD -->
+<div align="center">
+
+<img src="./missions-glass.svg?v=1" alt="S-Rank Missions &amp; Enterprise Platforms — Liquid Glass Dashboard" width="100%"/>
+
+<br/><br/>
+
+</div>
+
+<details>
+<summary><b>📋 Expand S-Rank Missions &amp; Enterprise Platforms (Interactive Links &amp; Jutsu Specs)</b></summary>
+
+<br/>
+
+### 🍥 Flagship Production Platforms
 
 <table>
 <tr>
@@ -175,9 +183,7 @@
 
 <br/>
 
----
-
-## 🏛️ Enterprise, State Government & Automation Solutions
+### 🏛️ Enterprise, State Government & Automation Solutions
 
 <table>
 <tr><th>Initiative / Platform</th><th>Client / Domain</th><th>Contribution &amp; Tech Stack</th></tr>
@@ -208,11 +214,25 @@
 </tr>
 </table>
 
+</details>
+
 <br/>
 
 ---
 
-## 📜 Career Arc — 10+ Years Professional Chronicle
+<!-- 📜 CAREER ARC LIQUID GLASS TIMELINE -->
+<div align="center">
+
+<img src="./career-glass.svg?v=1" alt="Career Arc 10+ Years Professional Chronicle — Liquid Glass Timeline" width="100%"/>
+
+<br/><br/>
+
+</div>
+
+<details>
+<summary><b>📋 Expand 10+ Years Professional Chronicle (Company Metrics &amp; Impact Logs)</b></summary>
+
+<br/>
 
 ```mermaid
 timeline
@@ -279,13 +299,27 @@ timeline
 </tr>
 </table>
 
+</details>
+
 <br/>
 
 ---
 
-## 🧰 Exhaustive Technical Arsenal
+<!-- 🧰 TECHNICAL ARSENAL & ACADEMIC CREDENTIALS DASHBOARD -->
+<div align="center">
 
-### 🌐 Frontend & Web Engineering
+<img src="./arsenal-glass.svg?v=1" alt="Exhaustive Technical Arsenal &amp; Academic Credentials — Liquid Glass Matrix" width="100%"/>
+
+<br/><br/>
+
+</div>
+
+<details>
+<summary><b>📋 Expand Complete Jutsu Stack &amp; Academic Records (Shield Badges &amp; Degrees)</b></summary>
+
+<br/>
+
+### 🌐 Frontend &amp; Web Engineering
 <p>
   <img src="https://img.shields.io/badge/Angular_19-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -299,7 +333,7 @@ timeline
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
-### 📱 Mobile App Architecture (Flutter & Android)
+### 📱 Mobile App Architecture (Flutter &amp; Android)
 <p>
   <img src="https://img.shields.io/badge/Flutter_3.x-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart_3.x-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
@@ -311,7 +345,7 @@ timeline
   <img src="https://img.shields.io/badge/Clean_Architecture-2E7D32?style=for-the-badge"/>
 </p>
 
-### 🔐 API Integration, Security & Payments
+### 🔐 API Integration, Security &amp; Payments
 <p>
   <img src="https://img.shields.io/badge/Java_Spring_Boot_APIs-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/JWT_Auth_Tokens-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
@@ -324,7 +358,7 @@ timeline
   <img src="https://img.shields.io/badge/Firebase_FCM/DB-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </p>
 
-### 🧪 Automation, Testing & Quality Assurance
+### 🧪 Automation, Testing &amp; Quality Assurance
 <p>
   <img src="https://img.shields.io/badge/Playwright_E2E-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
   <img src="https://img.shields.io/badge/UiPath_RPA-FA4616?style=for-the-badge&logo=uipath&logoColor=white"/>
@@ -334,7 +368,7 @@ timeline
   <img src="https://img.shields.io/badge/Flutter_Unit_Test-02569B?style=for-the-badge"/>
 </p>
 
-### 🛠️ Developer Tools & Environments
+### 🛠️ Developer Tools &amp; Environments
 <p>
   <img src="https://img.shields.io/badge/Figma_UI/UX-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -347,9 +381,7 @@ timeline
 
 <br/>
 
----
-
-## 🎓 Academic Credentials
+### 🎓 Academic Credentials
 
 <table>
 <tr>
@@ -368,6 +400,8 @@ timeline
   <td align="center"><code>2008 – 2012</code></td>
 </tr>
 </table>
+
+</details>
 
 <br/>
 
