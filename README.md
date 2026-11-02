@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 🎬 HERO video intro -->
-<img src="./hero-ajit.svg" alt="Hi, I'm Ajit Chowdary — Senior Frontend &amp; Mobile Developer" width="100%"/>
+<img src="./hero-ajit.svg?v=3" alt="Hi, I'm Ajit Chowdary — Senior Frontend &amp; Mobile Developer" width="100%"/>
 
 <br/><br/>
 
