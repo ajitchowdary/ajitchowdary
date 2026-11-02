@@ -40,7 +40,7 @@
 
 <img src="./rasengan-run.gif" alt="Naruto running with a rasengan" width="150"/>
 
-### 🌃 My Contribution Village
+### 🌃 My Contribution
 
 *Every commit raises another building — rebuilt automatically every day.*
 
