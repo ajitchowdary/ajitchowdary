@@ -17,19 +17,22 @@
 <!-- 🔊 Video Playback Badges (Direct GitHub Video Player with Sound) -->
 <p align="center">
   <a href="https://github.com/ajitchowdary/ajitchowdary/blob/main/VN20261124_141024.mp4" title="Play Original 4K Video with Audio on GitHub">
-    <img src="https://img.shields.io/badge/▶%20WATCH%20VIDEO%20WITH%20AUDIO-00%3A29%20%5B4K%5D-ff7a1a?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Video with Audio"/>
+    <img src="https://img.shields.io/badge/PLAY_VIDEO_WITH_AUDIO-4K_HD-ff7a1a?style=for-the-badge&logo=youtube&logoColor=white" alt="Play Video with Audio"/>
   </a>
   &nbsp;
   <a href="https://github.com/ajitchowdary/ajitchowdary/blob/main/intro-web.mp4" title="Stream Fast 1080p Video on GitHub">
-    <img src="https://img.shields.io/badge/⚡%20STREAM%20FAST%20(1080P)-4aa8ff?style=for-the-badge&logo=quicktime&logoColor=white" alt="Stream Fast 1080p"/>
+    <img src="https://img.shields.io/badge/STREAM_FAST-1080P-4aa8ff?style=for-the-badge&logo=apple&logoColor=white" alt="Stream Fast 1080p"/>
   </a>
   &nbsp;
   <a href="https://htmlpreview.github.io/?https://github.com/ajitchowdary/ajitchowdary/blob/main/index.html" title="Open Interactive Web Player">
-    <img src="https://img.shields.io/badge/🌐%20WEB%20PLAYER-2fd48a?style=for-the-badge&logo=googlechrome&logoColor=0b0d13" alt="Interactive Web Player"/>
+    <img src="https://img.shields.io/badge/WEB_PLAYER-HTML5-2fd48a?style=for-the-badge&logo=googlechrome&logoColor=0b0d13" alt="Interactive Web Player"/>
   </a>
 </p>
 
-<sub>🔊 <i>Click the preview above or the badges to launch the video player with full sound on GitHub.</i></sub>
+<p align="center">
+  <b>🔊 <a href="https://github.com/ajitchowdary/ajitchowdary/blob/main/VN20261124_141024.mp4">Click here or on the video above to play with FULL AUDIO</a></b><br/>
+  <sub><i>(GIFs on GitHub profile pages are silent — click to open GitHub's native video player with sound)</i></sub>
+</p>
 
 <br/><br/>
 
