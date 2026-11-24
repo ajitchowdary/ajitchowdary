@@ -1,7 +1,33 @@
 <div align="center">
 
-<!-- 🎬 HERO Video Intro Viewfinder -->
-<img src="./hero-ajit.svg?v=3" alt="Ajit Chowdary — Senior Web &amp; Mobile Developer" width="100%"/>
+<!-- 🎬 HERO Video Intro Viewfinder (Click to Watch with Audio) -->
+<a href="./VN20261124_141024.mp4" title="Click to watch full video with audio">
+  <img src="./hero-ajit.svg?v=4" alt="Ajit Chowdary — Senior Web &amp; Mobile Developer (Click to Watch Video with Audio)" width="100%"/>
+</a>
+
+<br/>
+
+<!-- 🔊 Play Video with Audio Links & Badges -->
+<p align="center">
+  <a href="./VN20261124_141024.mp4" title="Play Original 4K Video with Audio">
+    <img src="https://img.shields.io/badge/▶%20WATCH%20VIDEO%20WITH%20AUDIO-00%3A29%20%5B4K%5D-ff7a1a?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Video with Audio"/>
+  </a>
+  &nbsp;
+  <a href="./intro-web.mp4" title="Stream Fast 1080p Web Video">
+    <img src="https://img.shields.io/badge/⚡%20STREAM%20FAST%20(1080P)-4aa8ff?style=for-the-badge&logo=quicktime&logoColor=white" alt="Stream Fast 1080p"/>
+  </a>
+  &nbsp;
+  <a href="./index.html" title="Open Interactive Web Player">
+    <img src="https://img.shields.io/badge/🌐%20INTERACTIVE%20WEB%20PLAYER-2fd48a?style=for-the-badge&logo=googlechrome&logoColor=0b0d13" alt="Interactive Web Player"/>
+  </a>
+</p>
+
+<!-- Native HTML5 Video for Markdown Previewers -->
+<video controls width="100%" poster="./video-poster.jpg">
+  <source src="./intro-web.mp4" type="video/mp4">
+  <source src="./VN20261124_141024.mp4" type="video/mp4">
+  <p>Your browser does not support HTML5 video. <a href="./VN20261124_141024.mp4"><b>▶ Click here to play VN20261124_141024.mp4 with audio</b></a>.</p>
+</video>
 
 <br/><br/>
 

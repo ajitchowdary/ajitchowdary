@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ajit Chowdary — Video Intro & Portfolio</title>
+  <style>
+    :root {
+      --bg: #0b0d13;
+      --card-bg: rgba(23, 27, 40, 0.75);
+      --accent-orange: #ff7a1a;
+      --accent-blue: #4aa8ff;
+      --accent-green: #2fd48a;
+      --border-glow: rgba(255, 122, 26, 0.4);
+      --text: #f0f3f8;
+      --text-muted: #8c9bb0;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      background-color: var(--bg);
+      color: var(--text);
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 32px 16px;
+      overflow-x: hidden;
+      background-image: 
+        radial-gradient(circle at 20% 15%, rgba(255, 122, 26, 0.15) 0%, transparent 40%),
+        radial-gradient(circle at 80% 60%, rgba(74, 168, 255, 0.12) 0%, transparent 45%);
+    }
+
+    .container {
+      width: 100%;
+      max-width: 1080px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 28px;
+    }
+
+    /* Header Badge */
+    .status-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 6px 14px;
+      border-radius: 9999px;
+      background: rgba(255, 122, 26, 0.1);
+      border: 1px solid rgba(255, 122, 26, 0.35);
+      color: var(--accent-orange);
+      font-size: 13px;
+      font-weight: 600;
+      letter-spacing: 0.5px;
+      text-transform: uppercase;
+    }
+
+    .status-dot {
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      background: var(--accent-orange);
+      box-shadow: 0 0 10px var(--accent-orange);
+      animation: pulse 1.5s infinite;
+    }
+
+    @keyframes pulse {
+      0%, 100% { opacity: 1; transform: scale(1); }
+      50% { opacity: 0.4; transform: scale(0.85); }
+    }
+
+    /* Title & Meta */
+    .header-text {
+      text-align: center;
+    }
+
+    .header-text h1 {
+      font-size: clamp(28px, 5vw, 42px);
+      font-weight: 800;
+      background: linear-gradient(135deg, #ffb52e 0%, #ff7a1a 50%, #ff5c2b 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      margin-bottom: 8px;
+    }
+
+    .header-text p {
+      color: var(--text-muted);
+      font-size: clamp(14px, 2.5vw, 17px);
+      max-width: 600px;
+    }
+
+    /* Video Player Frame with Glassmorphism */
+    .video-card {
+      position: relative;
+      width: 100%;
+      background: var(--card-bg);
+      backdrop-filter: blur(16px);
+      -webkit-backdrop-filter: blur(16px);
+      border: 1px solid var(--border-glow);
+      border-radius: 20px;
+      overflow: hidden;
+      box-shadow: 0 20px 50px rgba(0, 0, 0, 0.6), 0 0 30px rgba(255, 122, 26, 0.15);
+      transition: border-color 0.3s ease, box-shadow 0.3s ease;
+    }
+
+    .video-card:hover {
+      border-color: rgba(255, 122, 26, 0.7);
+      box-shadow: 0 25px 60px rgba(0, 0, 0, 0.7), 0 0 45px rgba(255, 122, 26, 0.25);
+    }
+
+    .viewfinder-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 12px 20px;
+      background: rgba(11, 13, 19, 0.8);
+      border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+      font-size: 13px;
+      font-family: ui-monospace, Menlo, Consolas, monospace;
+      color: var(--text-muted);
+    }
+
+    .rec-indicator {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      color: #ff4d4d;
+      font-weight: 700;
+    }
+
+    .rec-dot {
+      width: 10px;
+      height: 10px;
+      background-color: #ff4d4d;
+      border-radius: 50%;
+      animation: blink 1s step-end infinite;
+    }
+
+    @keyframes blink {
+      0%, 50% { opacity: 1; }
+      50.01%, 100% { opacity: 0; }
+    }
+
+    .viewfinder-specs {
+      display: flex;
+      gap: 16px;
+    }
+
+    .spec-item {
+      display: flex;
+      align-items: center;
+      gap: 4px;
+    }
+
+    .spec-item span {
+      color: var(--accent-blue);
+      font-weight: 600;
+    }
+
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      background: #000;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      aspect-ratio: 16 / 9;
+    }
+
+    video {
+      width: 100%;
+      height: 100%;
+      object-fit: contain;
+      display: block;
+    }
+
+    /* Actions & Quick Links */
+    .controls-banner {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      align-items: center;
+      padding: 14px 20px;
+      background: rgba(15, 18, 27, 0.9);
+      border-top: 1px solid rgba(255, 255, 255, 0.06);
+      gap: 12px;
+    }
+
+    .audio-note {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      font-size: 13.5px;
+      color: var(--accent-green);
+    }
+
+    .btn-group {
+      display: flex;
+      gap: 10px;
+    }
+
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 8px 16px;
+      border-radius: 8px;
+      font-size: 13px;
+      font-weight: 600;
+      text-decoration: none;
+      cursor: pointer;
+      transition: all 0.2s ease;
+      border: 1px solid transparent;
+    }
+
+    .btn-primary {
+      background: var(--accent-orange);
+      color: #0b0d13;
+    }
+
+    .btn-primary:hover {
+      background: #ff8c3a;
+      transform: translateY(-1px);
+    }
+
+    .btn-secondary {
+      background: rgba(255, 255, 255, 0.08);
+      color: var(--text);
+      border-color: rgba(255, 255, 255, 0.15);
+    }
+
+    .btn-secondary:hover {
+      background: rgba(255, 255, 255, 0.15);
+      border-color: rgba(255, 255, 255, 0.3);
+    }
+
+    /* Profile Links Section */
+    .profile-footer {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 12px;
+      margin-top: 12px;
+    }
+
+    .profile-footer a {
+      color: var(--text-muted);
+      text-decoration: none;
+      font-size: 14px;
+      transition: color 0.2s;
+    }
+
+    .profile-footer a:hover {
+      color: var(--accent-orange);
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="status-badge">
+      <div class="status-dot"></div>
+      Hero Video Intro &bull; Audio Enabled
+    </div>
+
+    <div class="header-text">
+      <h1>Ajit Chowdary</h1>
+      <p>Senior Web &amp; Mobile Developer &bull; 10+ Years Building Resilient Ecosystems</p>
+    </div>
+
+    <div class="video-card">
+      <div class="viewfinder-header">
+        <div class="rec-indicator">
+          <div class="rec-dot"></div>
+          <span>LIVE AUDIO/VIDEO</span>
+        </div>
+        <div class="viewfinder-specs">
+          <div class="spec-item">FORMAT: <span>4K UHD / AAC</span></div>
+          <div class="spec-item">FPS: <span>30</span></div>
+          <div class="spec-item">TIME: <span>00:28.97</span></div>
+        </div>
+      </div>
+
+      <div class="video-wrapper">
+        <video id="introVideo" controls autoplay playsinline preload="auto" poster="./video-poster.jpg">
+          <source src="./intro-web.mp4" type="video/mp4">
+          <source src="./VN20261124_141024.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+          <a href="./VN20261124_141024.mp4">Download or watch the video directly</a>.
+        </video>
+      </div>
+
+      <div class="controls-banner">
+        <div class="audio-note">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon>
+            <path d="M19.07 4.93a10 10 0 0 1 0 14.14M15.54 8.46a5 5 0 0 1 0 7.07"></path>
+          </svg>
+          Audio Track: AAC 44.1kHz Stereo (Unmute in player controls above)
+        </div>
+        <div class="btn-group">
+          <a class="btn btn-primary" href="./VN20261124_141024.mp4" download>
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+              <polyline points="7 10 12 15 17 10"></polyline>
+              <line x1="12" y1="15" x2="12" y2="3"></line>
+            </svg>
+            Original 4K Video
+          </a>
+          <a class="btn btn-secondary" href="https://github.com/ajitchowdary" target="_blank">
+            GitHub Profile &rarr;
+          </a>
+        </div>
+      </div>
+    </div>
+
+    <div class="profile-footer">
+      <a href="https://github.com/ajitchowdary">GitHub</a> &bull;
+      <a href="https://linkedin.com/in/ajitchowdary">LinkedIn</a> &bull;
+      <a href="mailto:ajit.chowdary@gmail.com">Email</a> &bull;
+      <a href="https://ajitchowdary.netlify.app">Portfolio</a>
+    </div>
+  </div>
+</body>
+</html>
