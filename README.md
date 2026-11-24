@@ -14,18 +14,18 @@
 
 <br/>
 
-<!-- 🔊 Video Playback Badges (Direct GitHub Video Player with Sound) -->
+<!-- 🔊 Video Playback Buttons (Direct GitHub Video Player with Sound) -->
 <p align="center">
   <a href="https://github.com/ajitchowdary/ajitchowdary/blob/main/VN20261124_141024.mp4" title="Play Original 4K Video with Audio on GitHub">
-    <img src="https://img.shields.io/badge/PLAY_VIDEO_WITH_AUDIO-4K_HD-ff7a1a?style=for-the-badge&logo=youtube&logoColor=white" alt="Play Video with Audio"/>
+    <img src="./btn-play-audio.svg" alt="Play Video with Audio" height="38"/>
   </a>
   &nbsp;
   <a href="https://github.com/ajitchowdary/ajitchowdary/blob/main/intro-web.mp4" title="Stream Fast 1080p Video on GitHub">
-    <img src="https://img.shields.io/badge/STREAM_FAST-1080P-4aa8ff?style=for-the-badge&logo=apple&logoColor=white" alt="Stream Fast 1080p"/>
+    <img src="./btn-stream-fast.svg" alt="Stream Fast 1080p" height="38"/>
   </a>
   &nbsp;
   <a href="https://htmlpreview.github.io/?https://github.com/ajitchowdary/ajitchowdary/blob/main/index.html" title="Open Interactive Web Player">
-    <img src="https://img.shields.io/badge/WEB_PLAYER-HTML5-2fd48a?style=for-the-badge&logo=googlechrome&logoColor=0b0d13" alt="Interactive Web Player"/>
+    <img src="./btn-web-player.svg" alt="Interactive Web Player" height="38"/>
   </a>
 </p>
 
